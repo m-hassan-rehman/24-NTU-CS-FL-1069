@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "author": "HASAN REHMAN",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "board-esp32-devkit-v1",
+      "id": "esp"
+    }
+  ],
+  "connections": [],
+  "dependencies": {}
+}
